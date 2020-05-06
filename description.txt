@@ -1,0 +1,8 @@
+This mod is intended for Servers, or for people who want to work with a money system.
+
+This mod comes with: 5/10/20/50/100/200/500 Banknotes.
+
+''*Please note this is an item you can only make and exchange*''
+  **SO IT DOES NOT RETURN TO GOLD COINS!**
+
+Mod / Sprites by: Leo | LeeJow

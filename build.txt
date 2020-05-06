@@ -1,0 +1,3 @@
+displayName = Currency
+author = LeeJow
+version = 1.0
